@@ -1,2 +1,0 @@
-# antena
-antena basic study
